@@ -13,7 +13,7 @@ window.channels = {
       { label: "360p", src: "" },
       { label: "480p", src: "" },
       { label: "720p HD", src: "" },
-      { label: "1080p FHD", src: "" }
+      { label: "1080p FHD", src: "http://teratv.info:80/live/M89754etty/H76533ettfg/531660.m3u8" }
     ]
   },
 
@@ -34,7 +34,7 @@ window.channels = {
   "b8": { title: "beIN 1 Extra", qualities: [ { label: "Auto", src: "" } ] },
   "b9": { title: "beIN 2 Extra", qualities: [ { label: "Auto", src: "" } ] },
 
-  "s4": { title: "THMANYAH 1", qualities: [ { label: "Auto", src: "" } ] },
+  "s4": { title: "THMANYAH 1", qualities: [ { label: "Auto", src: "http://teratv.info:80/live/M89754etty/H76533ettfg/531660.m3u8" } ] },
   "s5": { title: "THMANYAH 2", qualities: [ { label: "Auto", src: "" } ] },
 
   "a1": { title: "AD Sports 1", qualities: [ { label: "Auto", src: "" } ] },
