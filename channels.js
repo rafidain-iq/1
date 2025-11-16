@@ -10,8 +10,8 @@ window.channels = {
   "b1": {
     title: "beIN Sports 1",
     qualities: [
-      { label: "360p", src: "" },
-      { label: "480p", src: "" },
+      { label: "360p", src: "http://195.211.124.103:2052/live/294869928326/010976964694/831.m3u8" },
+      { label: "480p", src: "http://teratv.info:80/live/M89754etty/H76533ettfg/531660.m3u8" },
       { label: "720p HD", src: "" },
       { label: "1080p FHD", src: "http://teratv.info:80/live/M89754etty/H76533ettfg/531660.m3u8" }
     ]
